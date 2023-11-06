@@ -1,0 +1,3 @@
+This is an example file for testing.
+It contains some random text for demonstration purposes.
+Feel free to use it to test the Data Stream Processing GUI.

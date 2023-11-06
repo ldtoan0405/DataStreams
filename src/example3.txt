@@ -1,0 +1,4 @@
+Hello, world!
+Welcome to the world of programming.
+Java is a powerful and versatile programming language.
+It can be used for various types of applications, including web development, desktop applications, and more.
